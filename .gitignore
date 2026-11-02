@@ -1,0 +1,13 @@
+# datasets and weights (too large for GitHub, and not mine to redistribute)
+*.csv
+*.h5
+document3.txt
+Intel Image Classification/
+caltech-101/
+fashion mnist/
+sg/
+
+# local noise
+.ipynb_checkpoints/
+__pycache__/
+3D_backup_before_fill.ipynb
